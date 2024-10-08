@@ -65,7 +65,6 @@
 }
 
 .temperature-container {
-  top: 40px;
   position: relative;
   display: flex;
   justify-content: center;
